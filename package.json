@@ -1,0 +1,23 @@
+{
+  "name": "show-answer",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@mdi/font": "^7.2.96",
+    "axios": "^1.4.0",
+    "sass": "^1.62.1",
+    "uuid": "^9.0.0",
+    "vue": "^3.2.47",
+    "vuetify": "^3.2.2",
+    "vuex": "^4.0.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.0.0",
+    "vite": "^4.1.4"
+  }
+}
